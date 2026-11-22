@@ -60,6 +60,7 @@ export const App = () => {
           height={100}
           color={'red'}
         />
+        My name
       </div>
       <Link to={'/about'}>about</Link>
       <br />
